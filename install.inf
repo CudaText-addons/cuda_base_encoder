@@ -3,6 +3,7 @@ title=Base Encoder
 desc=Allows to encode/decode text in Base64, Base32, Base16, Quoted-Printable, Unicode-Escape
 type=cudatext-plugin
 subdir=cuda_base_encoder
+homepage=https://github.com/CudaText-addons/cuda_base_encoder
 
 [item1]
 section=commands
